@@ -37,5 +37,14 @@
 
         android:hint="@string/hintValorTotal"
          />
+
+    <EditText
+        android:id="@+id/valorPorcentagem"
+        android:layout_width="match_parent"
+        android:layout_height="79dp"
+        android:ems="10"
+        android:hint="@string/hintValorPorcentagem"
+         />
+
 </LinearLayout>
 
