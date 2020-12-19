@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
             valorTotalTextView.setText(currencyFormat.format(total));
             valorGorjetaTextView.setText(currencyFormat.format(gorjeta));
             valorPorcentagemTextView.setText(teste);
-            //%
+
         }catch (Exception ex){
             String y = ex.getMessage();
         }
